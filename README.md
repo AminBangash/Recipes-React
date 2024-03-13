@@ -1,5 +1,5 @@
 Recipe-React App
-A starter project for building a recipe application using React for the frontend and Node.js for the backend.
+A  project for building a recipe application using React for the frontend and Node.js for the backend.
 
 Features
 Frontend:
